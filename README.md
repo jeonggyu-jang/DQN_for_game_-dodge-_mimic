@@ -1,4 +1,4 @@
-# DQN_for_game_-dodge-_mimic
+# DQN_for_the_game_-dodge-_mimic
 DQN for game 'dodge' mimic version
 
 game.py : game environment
