@@ -1,0 +1,2 @@
+model_checkpoint_path: "our_dqn_model.pd"
+all_model_checkpoint_paths: "our_dqn_model.pd"
